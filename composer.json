@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jmathai/epiphany": "dev-master",
+        "gemorroj/phpwhois": "dev-master"
+    }
+}
